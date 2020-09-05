@@ -1,0 +1,19 @@
+# Spellcheck for markdown
+jupyter labextension install @ijmbarr/jupyterlab_spellchecker
+
+#latex support
+pip install jupyterlab_latex
+jupyter labextension install @jupyterlab/latex
+
+#table of contents
+jupyter labextension install @jupyterlab/toc
+
+#collapsible headings
+jupyter labextension install @aquirdturtle/collapsible_headings
+
+#ipywidgets
+pip install ipywidgets
+
+#darcula dark theme
+jupyter labextension install @telamonian/theme-darcula
+
